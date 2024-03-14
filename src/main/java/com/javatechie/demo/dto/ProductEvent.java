@@ -1,6 +1,6 @@
-package com.javatechie.query.demo.dto;
+package com.javatechie.demo.dto;
 
-import com.javatechie.query.demo.entity.Product;
+import com.javatechie.demo.entity.Product;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

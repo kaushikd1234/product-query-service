@@ -1,4 +1,4 @@
-package com.javatechie.query.demo.entity;
+package com.javatechie.demo.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

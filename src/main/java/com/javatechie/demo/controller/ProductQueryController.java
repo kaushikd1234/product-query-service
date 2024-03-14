@@ -1,7 +1,7 @@
-package com.javatechie.query.demo.controller;
+package com.javatechie.demo.controller;
 
-import com.javatechie.query.demo.entity.Product;
-import com.javatechie.query.demo.service.ProductQueryService;
+import com.javatechie.demo.entity.Product;
+import com.javatechie.demo.service.ProductQueryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

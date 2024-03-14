@@ -1,4 +1,4 @@
-package com.javatechie.query.demo;
+package com.javatechie.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
